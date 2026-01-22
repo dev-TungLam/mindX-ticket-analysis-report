@@ -51,7 +51,7 @@ Three breakdown areas drive **41%** of all reported volume:
 
 ### C. Top 5 Recurring Pain Points (Specific Issues)
 
-Instead of general categories, we identified **5 specific repeatable tasks** that consume 80% of team effort:
+Identified **5 specific repeatable tasks** that consume 80% of team effort:
 
 | Rank        | Issue Code             | Count | Root Cause (Technical)                                                            | Impact                                                                       |
 | :---------- | :--------------------- | :---- | :-------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
